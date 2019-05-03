@@ -2,9 +2,9 @@
 
 ## Demo:
 
-![start] (android/assets/startMenu.jpg)
+![start](android/assets/startMenu.jpg)
 
-![ninja] (android/assets/ninja.jpg)
+![ninja](android/assets/ninja.jpg)
 
-![restart] (android/assets/restartMenu.jpg)
+![restart](android/assets/restartMenu.jpg)
 
