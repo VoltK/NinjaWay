@@ -1,1 +1,1 @@
-"# NinjaWay" 
+# NinjaWay
