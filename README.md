@@ -2,7 +2,7 @@
 
 ## How to run it?
 
-1) import gradle.build in any IDEA
+1) import build.gradle in any IDEA
 
 2) ``` gradlew desktop:run ```
 
