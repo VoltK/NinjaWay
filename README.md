@@ -4,9 +4,7 @@
 
 1) import gradle.build in any IDEA
 
-2) ```
-gradlew desktop:run
-```
+2) ``` gradlew desktop:run ```
 
 ## Demo:
 
